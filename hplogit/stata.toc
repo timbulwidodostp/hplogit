@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p hplogit Poisson-logit hurdle regression Use hplogit With STATA 19

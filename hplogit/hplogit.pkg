@@ -1,0 +1,5 @@
+D 'hplogit': Poisson-logit hurdle regression Use hplogit With STATA 19
+D
+F hplogit.ado
+F jhpoi_logit_ll.ado
+F hplogit.hlp
